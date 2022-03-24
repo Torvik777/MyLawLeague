@@ -1,0 +1,572 @@
+Uri: https://fonts.googleapis.com/css?family=Rosarivo:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Roboto+Slab:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Roboto:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&display=auto&subset=cyrillic&ver=5.9.1
+File Name: C:\Downloaded Web Sites\www.law-league.com.ua\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/roboto/v29/KFOiCnqEu92Fr1Mu51QrEzQdKg.ttf
+File Name: C:\Downloaded Web Sites\www.law-league.com.ua\s\roboto\v29\KFOiCnqEu92Fr1Mu51QrEzQdKg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v29/KFOjCnqEu92Fr1Mu51S7ACc-CsE.ttf
+File Name: C:\Downloaded Web Sites\www.law-league.com.ua\s\roboto\v29\KFOjCnqEu92Fr1Mu51S7ACc-CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v29/KFOjCnqEu92Fr1Mu51TjASc-CsE.ttf
+File Name: C:\Downloaded Web Sites\www.law-league.com.ua\s\roboto\v29\KFOjCnqEu92Fr1Mu51TjASc-CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v29/KFOjCnqEu92Fr1Mu51TLBCc-CsE.ttf
+File Name: C:\Downloaded Web Sites\www.law-league.com.ua\s\roboto\v29\KFOjCnqEu92Fr1Mu51TLBCc-CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v29/KFOjCnqEu92Fr1Mu51TzBic-CsE.ttf
+File Name: C:\Downloaded Web Sites\www.law-league.com.ua\s\roboto\v29\KFOjCnqEu92Fr1Mu51TzBic-CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v29/KFOkCnqEu92Fr1MmgVxMIzc.ttf
+File Name: C:\Downloaded Web Sites\www.law-league.com.ua\s\roboto\v29\KFOkCnqEu92Fr1MmgVxMIzc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v29/KFOkCnqEu92Fr1Mu51xMIzc.ttf
+File Name: C:\Downloaded Web Sites\www.law-league.com.ua\s\roboto\v29\KFOkCnqEu92Fr1Mu51xMIzc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v29/KFOlCnqEu92Fr1MmEU9fABc9.ttf
+File Name: C:\Downloaded Web Sites\www.law-league.com.ua\s\roboto\v29\KFOlCnqEu92Fr1MmEU9fABc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v29/KFOlCnqEu92Fr1MmSU5fABc9.ttf
+File Name: C:\Downloaded Web Sites\www.law-league.com.ua\s\roboto\v29\KFOlCnqEu92Fr1MmSU5fABc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v29/KFOlCnqEu92Fr1MmWUlfABc9.ttf
+File Name: C:\Downloaded Web Sites\www.law-league.com.ua\s\roboto\v29\KFOlCnqEu92Fr1MmWUlfABc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v29/KFOlCnqEu92Fr1MmYUtfABc9.ttf
+File Name: C:\Downloaded Web Sites\www.law-league.com.ua\s\roboto\v29\KFOlCnqEu92Fr1MmYUtfABc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v29/KFOmCnqEu92Fr1Mu5mxP.ttf
+File Name: C:\Downloaded Web Sites\www.law-league.com.ua\s\roboto\v29\KFOmCnqEu92Fr1Mu5mxP.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v22/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjo0oSma2Rm.ttf
+File Name: C:\Downloaded Web Sites\www.law-league.com.ua\s\robotoslab\v22\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjo0oSma2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v22/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoa4Oma2Rm.ttf
+File Name: C:\Downloaded Web Sites\www.law-league.com.ua\s\robotoslab\v22\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoa4Oma2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v22/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDIOma2Rm.ttf
+File Name: C:\Downloaded Web Sites\www.law-league.com.ua\s\robotoslab\v22\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDIOma2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v22/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDISma2Rm.ttf
+File Name: C:\Downloaded Web Sites\www.law-league.com.ua\s\robotoslab\v22\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDISma2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v22/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojISma2Rm.ttf
+File Name: C:\Downloaded Web Sites\www.law-league.com.ua\s\robotoslab\v22\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojISma2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v22/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojIWma2Rm.ttf
+File Name: C:\Downloaded Web Sites\www.law-league.com.ua\s\robotoslab\v22\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojIWma2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v22/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoJYOma2Rm.ttf
+File Name: C:\Downloaded Web Sites\www.law-league.com.ua\s\robotoslab\v22\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoJYOma2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v22/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoUoOma2Rm.ttf
+File Name: C:\Downloaded Web Sites\www.law-league.com.ua\s\robotoslab\v22\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoUoOma2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v22/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjovoSma2Rm.ttf
+File Name: C:\Downloaded Web Sites\www.law-league.com.ua\s\robotoslab\v22\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjovoSma2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/rosarivo/v18/PlI-Fl2lO6N9f8HaNDeF0Hw.ttf
+File Name: C:\Downloaded Web Sites\www.law-league.com.ua\s\rosarivo\v18\PlI-Fl2lO6N9f8HaNDeF0Hw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/rosarivo/v18/PlI4Fl2lO6N9f8HaNDeA4HtknQ.ttf
+File Name: C:\Downloaded Web Sites\www.law-league.com.ua\s\rosarivo\v18\PlI4Fl2lO6N9f8HaNDeA4HtknQ.ttf
+Content Type: font/ttf
+
+Uri: https://www.googletagmanager.com/gtag/js?id=UA-221113508-1
+File Name: C:\Downloaded Web Sites\www.law-league.com.ua\gtag\js
+Content Type: application/javascript
+
+Uri: https://www.law-league.com.ua/
+File Name: C:\Downloaded Web Sites\www.law-league.com.ua\index.htm
+Content Type: text/html
+
+Uri: https://www.law-league.com.ua/abolition-of-notarial-inscriptions/
+File Name: C:\Downloaded Web Sites\www.law-league.com.ua\abolition-of-notarial-inscriptions\index.htm
+Content Type: text/html
+
+Uri: https://www.law-league.com.ua/about-us/
+File Name: C:\Downloaded Web Sites\www.law-league.com.ua\about-us\index.htm
+Content Type: text/html
+
+Uri: https://www.law-league.com.ua/comments/feed/
+File Name: C:\Downloaded Web Sites\www.law-league.com.ua\comments\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://www.law-league.com.ua/complaints-complaints-letters/
+File Name: C:\Downloaded Web Sites\www.law-league.com.ua\complaints-complaints-letters\index.htm
+Content Type: text/html
+
+Uri: https://www.law-league.com.ua/contacts/
+File Name: C:\Downloaded Web Sites\www.law-league.com.ua\contacts\index.htm
+Content Type: text/html
+
+Uri: https://www.law-league.com.ua/credit/
+File Name: C:\Downloaded Web Sites\www.law-league.com.ua\credit\index.htm
+Content Type: text/html
+
+Uri: https://www.law-league.com.ua/feed/
+File Name: C:\Downloaded Web Sites\www.law-league.com.ua\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://www.law-league.com.ua/judicial-support/
+File Name: C:\Downloaded Web Sites\www.law-league.com.ua\judicial-support\index.htm
+Content Type: text/html
+
+Uri: https://www.law-league.com.ua/other-legal-issues/
+File Name: C:\Downloaded Web Sites\www.law-league.com.ua\other-legal-issues\index.htm
+Content Type: text/html
+
+Uri: https://www.law-league.com.ua/permanent-esidence-permit/
+File Name: C:\Downloaded Web Sites\www.law-league.com.ua\permanent-esidence-permit\index.htm
+Content Type: text/html
+
+Uri: https://www.law-league.com.ua/prices/
+File Name: C:\Downloaded Web Sites\www.law-league.com.ua\prices\index.htm
+Content Type: text/html
+
+Uri: https://www.law-league.com.ua/tov-registration/
+File Name: C:\Downloaded Web Sites\www.law-league.com.ua\tov-registration\index.htm
+Content Type: text/html
+
+Uri: https://www.law-league.com.ua/wp-content/plugins/elementor/assets/css/frontend-lite.min.css?ver=3.5.5
+File Name: C:\Downloaded Web Sites\www.law-league.com.ua\wp-content\plugins\elementor\assets\css\frontend-lite.min.css
+Content Type: text/css
+
+Uri: https://www.law-league.com.ua/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.5.5
+File Name: C:\Downloaded Web Sites\www.law-league.com.ua\wp-content\plugins\elementor\assets\js\frontend-modules.min.js
+Content Type: application/javascript
+
+Uri: https://www.law-league.com.ua/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.5.5
+File Name: C:\Downloaded Web Sites\www.law-league.com.ua\wp-content\plugins\elementor\assets\js\frontend.min.js
+Content Type: application/javascript
+
+Uri: https://www.law-league.com.ua/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.5.5
+File Name: C:\Downloaded Web Sites\www.law-league.com.ua\wp-content\plugins\elementor\assets\js\webpack.runtime.min.js
+Content Type: application/javascript
+
+Uri: https://www.law-league.com.ua/wp-content/plugins/elementor/assets/lib/animations/animations.min.css?ver=3.5.5
+File Name: C:\Downloaded Web Sites\www.law-league.com.ua\wp-content\plugins\elementor\assets\lib\animations\animations.min.css
+Content Type: text/css
+
+Uri: https://www.law-league.com.ua/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.14.0
+File Name: C:\Downloaded Web Sites\www.law-league.com.ua\wp-content\plugins\elementor\assets\lib\eicons\css\elementor-icons.min.css
+Content Type: text/css
+
+Uri: https://www.law-league.com.ua/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.eot?5.14.0
+File Name: C:\Downloaded Web Sites\www.law-league.com.ua\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.law-league.com.ua/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.svg?5.14.0
+File Name: C:\Downloaded Web Sites\www.law-league.com.ua\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.svg
+Content Type: image/svg+xml
+
+Uri: https://www.law-league.com.ua/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.ttf?5.14.0
+File Name: C:\Downloaded Web Sites\www.law-league.com.ua\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.ttf
+Content Type: font/ttf
+
+Uri: https://www.law-league.com.ua/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff2?5.14.0
+File Name: C:\Downloaded Web Sites\www.law-league.com.ua\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.woff2
+Content Type: font/woff2
+
+Uri: https://www.law-league.com.ua/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff?5.14.0
+File Name: C:\Downloaded Web Sites\www.law-league.com.ua\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.woff
+Content Type: font/woff
+
+Uri: https://www.law-league.com.ua/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2
+File Name: C:\Downloaded Web Sites\www.law-league.com.ua\wp-content\plugins\elementor\assets\lib\waypoints\waypoints.min.js
+Content Type: application/javascript
+
+Uri: https://www.law-league.com.ua/wp-content/plugins/popularis-extra/assets/css/style.css?ver=1.2.0
+File Name: C:\Downloaded Web Sites\www.law-league.com.ua\wp-content\plugins\popularis-extra\assets\css\style.css
+Content Type: text/css
+
+Uri: https://www.law-league.com.ua/wp-content/plugins/popularis-extra/library/extra-elementor/elementor-widgets/js/animate.min.js?ver=1.2.0
+File Name: C:\Downloaded Web Sites\www.law-league.com.ua\wp-content\plugins\popularis-extra\library\extra-elementor\elementor-widgets\js\animate.min.js
+Content Type: application/javascript
+
+Uri: https://www.law-league.com.ua/wp-content/plugins/support-chat/assets/home/css/wp-saio.css?ver=5.9.1
+File Name: C:\Downloaded Web Sites\www.law-league.com.ua\wp-content\plugins\support-chat\assets\home\css\wp-saio.css
+Content Type: text/css
+
+Uri: https://www.law-league.com.ua/wp-content/plugins/support-chat/assets/home/images/close-button-black.png
+File Name: C:\Downloaded Web Sites\www.law-league.com.ua\wp-content\plugins\support-chat\assets\home\images\close-button-black.png
+Content Type: image/png
+
+Uri: https://www.law-league.com.ua/wp-content/plugins/support-chat/assets/home/images/close-button.svg
+File Name: C:\Downloaded Web Sites\www.law-league.com.ua\wp-content\plugins\support-chat\assets\home\images\close-button.svg
+Content Type: image/svg+xml
+
+Uri: https://www.law-league.com.ua/wp-content/plugins/support-chat/assets/home/images/close-envelope.svg
+File Name: C:\Downloaded Web Sites\www.law-league.com.ua\wp-content\plugins\support-chat\assets\home\images\close-envelope.svg
+Content Type: image/svg+xml
+
+Uri: https://www.law-league.com.ua/wp-content/plugins/support-chat/assets/home/images/facebook-messenger.svg
+File Name: C:\Downloaded Web Sites\www.law-league.com.ua\wp-content\plugins\support-chat\assets\home\images\facebook-messenger.svg
+Content Type: image/svg+xml
+
+Uri: https://www.law-league.com.ua/wp-content/plugins/support-chat/assets/home/images/line-logo.svg
+File Name: C:\Downloaded Web Sites\www.law-league.com.ua\wp-content\plugins\support-chat\assets\home\images\line-logo.svg
+Content Type: image/svg+xml
+
+Uri: https://www.law-league.com.ua/wp-content/plugins/support-chat/assets/home/images/phone-receiver.svg
+File Name: C:\Downloaded Web Sites\www.law-league.com.ua\wp-content\plugins\support-chat\assets\home\images\phone-receiver.svg
+Content Type: image/svg+xml
+
+Uri: https://www.law-league.com.ua/wp-content/plugins/support-chat/assets/home/images/skype.svg
+File Name: C:\Downloaded Web Sites\www.law-league.com.ua\wp-content\plugins\support-chat\assets\home\images\skype.svg
+Content Type: image/svg+xml
+
+Uri: https://www.law-league.com.ua/wp-content/plugins/support-chat/assets/home/images/snapchat.svg
+File Name: C:\Downloaded Web Sites\www.law-league.com.ua\wp-content\plugins\support-chat\assets\home\images\snapchat.svg
+Content Type: image/svg+xml
+
+Uri: https://www.law-league.com.ua/wp-content/plugins/support-chat/assets/home/images/telegram.svg
+File Name: C:\Downloaded Web Sites\www.law-league.com.ua\wp-content\plugins\support-chat\assets\home\images\telegram.svg
+Content Type: image/svg+xml
+
+Uri: https://www.law-league.com.ua/wp-content/plugins/support-chat/assets/home/images/viber.svg
+File Name: C:\Downloaded Web Sites\www.law-league.com.ua\wp-content\plugins\support-chat\assets\home\images\viber.svg
+Content Type: image/svg+xml
+
+Uri: https://www.law-league.com.ua/wp-content/plugins/support-chat/assets/home/images/whatsapp-logo.svg
+File Name: C:\Downloaded Web Sites\www.law-league.com.ua\wp-content\plugins\support-chat\assets\home\images\whatsapp-logo.svg
+Content Type: image/svg+xml
+
+Uri: https://www.law-league.com.ua/wp-content/plugins/support-chat/assets/home/js/wp-saio.min.js?ver=5.9.1
+File Name: C:\Downloaded Web Sites\www.law-league.com.ua\wp-content\plugins\support-chat\assets\home\js\wp-saio.min.js
+Content Type: application/javascript
+
+Uri: https://www.law-league.com.ua/wp-content/plugins/table-addons-for-elementor/public/css/table-addons-for-elementor-public.css?ver=1.0.1
+File Name: C:\Downloaded Web Sites\www.law-league.com.ua\wp-content\plugins\table-addons-for-elementor\public\css\table-addons-for-elementor-public.css
+Content Type: text/css
+
+Uri: https://www.law-league.com.ua/wp-content/plugins/wpforms-lite/assets/css/wpforms-full.min.css?ver=1.7.2.1
+File Name: C:\Downloaded Web Sites\www.law-league.com.ua\wp-content\plugins\wpforms-lite\assets\css\wpforms-full.min.css
+Content Type: text/css
+
+Uri: https://www.law-league.com.ua/wp-content/plugins/wpforms-lite/assets/images/submit-spin.svg
+File Name: C:\Downloaded Web Sites\www.law-league.com.ua\wp-content\plugins\wpforms-lite\assets\images\submit-spin.svg
+Content Type: image/svg+xml
+
+Uri: https://www.law-league.com.ua/wp-content/plugins/wpforms-lite/assets/images/times-solid-white.svg
+File Name: C:\Downloaded Web Sites\www.law-league.com.ua\wp-content\plugins\wpforms-lite\assets\images\times-solid-white.svg
+Content Type: image/svg+xml
+
+Uri: https://www.law-league.com.ua/wp-content/plugins/wpforms-lite/assets/js/integrations/elementor/frontend.min.js?ver=1.7.2.1
+File Name: C:\Downloaded Web Sites\www.law-league.com.ua\wp-content\plugins\wpforms-lite\assets\js\integrations\elementor\frontend.min.js
+Content Type: application/javascript
+
+Uri: https://www.law-league.com.ua/wp-content/plugins/wpforms-lite/assets/js/jquery.inputmask.min.js?ver=5.0.7-beta.29
+File Name: C:\Downloaded Web Sites\www.law-league.com.ua\wp-content\plugins\wpforms-lite\assets\js\jquery.inputmask.min.js
+Content Type: application/javascript
+
+Uri: https://www.law-league.com.ua/wp-content/plugins/wpforms-lite/assets/js/jquery.validate.min.js?ver=1.19.3
+File Name: C:\Downloaded Web Sites\www.law-league.com.ua\wp-content\plugins\wpforms-lite\assets\js\jquery.validate.min.js
+Content Type: application/javascript
+
+Uri: https://www.law-league.com.ua/wp-content/plugins/wpforms-lite/assets/js/text-limit.min.js?ver=1.7.2.1
+File Name: C:\Downloaded Web Sites\www.law-league.com.ua\wp-content\plugins\wpforms-lite\assets\js\text-limit.min.js
+Content Type: application/javascript
+
+Uri: https://www.law-league.com.ua/wp-content/plugins/wpforms-lite/assets/js/wpforms.min.js?ver=1.7.2.1
+File Name: C:\Downloaded Web Sites\www.law-league.com.ua\wp-content\plugins\wpforms-lite\assets\js\wpforms.min.js
+Content Type: application/javascript
+
+Uri: https://www.law-league.com.ua/wp-content/themes/hello-elementor/assets/js/hello-frontend.min.js?ver=1.0.0
+File Name: C:\Downloaded Web Sites\www.law-league.com.ua\wp-content\themes\hello-elementor\assets\js\hello-frontend.min.js
+Content Type: application/javascript
+
+Uri: https://www.law-league.com.ua/wp-content/themes/hello-elementor/style.min.css?ver=2.5.0
+File Name: C:\Downloaded Web Sites\www.law-league.com.ua\wp-content\themes\hello-elementor\style.min.css
+Content Type: text/css
+
+Uri: https://www.law-league.com.ua/wp-content/themes/hello-elementor/theme.min.css?ver=2.5.0
+File Name: C:\Downloaded Web Sites\www.law-league.com.ua\wp-content\themes\hello-elementor\theme.min.css
+Content Type: text/css
+
+Uri: https://www.law-league.com.ua/wp-content/uploads/2022/01/39363-tsvetok_vaza_minimalizm-для-телефонов.jpg
+File Name: C:\Downloaded Web Sites\www.law-league.com.ua\wp-content\uploads\2022\01\39363-tsvetok_vaza_minimalizm-для-телефонов.jpg
+Content Type: image/jpeg
+
+Uri: https://www.law-league.com.ua/wp-content/uploads/2022/01/39363-tsvetok_vaza_minimalizm-e1641162094806.jpg
+File Name: C:\Downloaded Web Sites\www.law-league.com.ua\wp-content\uploads\2022\01\39363-tsvetok_vaza_minimalizm-e1641162094806.jpg
+Content Type: image/jpeg
+
+Uri: https://www.law-league.com.ua/wp-content/uploads/2022/02/лого-міні-150x150.png
+File Name: C:\Downloaded Web Sites\www.law-league.com.ua\wp-content\uploads\2022\02\лого-міні-150x150.png
+Content Type: image/png
+
+Uri: https://www.law-league.com.ua/wp-content/uploads/2022/02/лого-міні.png
+File Name: C:\Downloaded Web Sites\www.law-league.com.ua\wp-content\uploads\2022\02\лого-міні.png
+Content Type: image/png
+
+Uri: https://www.law-league.com.ua/wp-content/uploads/2022/02/l-6-min-238x300.png
+File Name: C:\Downloaded Web Sites\www.law-league.com.ua\wp-content\uploads\2022\02\l-6-min-238x300.png
+Content Type: image/png
+
+Uri: https://www.law-league.com.ua/wp-content/uploads/2022/02/l-6-min.png
+File Name: C:\Downloaded Web Sites\www.law-league.com.ua\wp-content\uploads\2022\02\l-6-min.png
+Content Type: image/png
+
+Uri: https://www.law-league.com.ua/wp-content/uploads/elementor/css/global.css?ver=1648111197
+File Name: C:\Downloaded Web Sites\www.law-league.com.ua\wp-content\uploads\elementor\css\global.css
+Content Type: text/css
+
+Uri: https://www.law-league.com.ua/wp-content/uploads/elementor/css/post-233.css?ver=1648111589
+File Name: C:\Downloaded Web Sites\www.law-league.com.ua\wp-content\uploads\elementor\css\post-233.css
+Content Type: text/css
+
+Uri: https://www.law-league.com.ua/wp-content/uploads/elementor/css/post-276.css?ver=1648112980
+File Name: C:\Downloaded Web Sites\www.law-league.com.ua\wp-content\uploads\elementor\css\post-276.css
+Content Type: text/css
+
+Uri: https://www.law-league.com.ua/wp-content/uploads/elementor/css/post-358.css?ver=1648112981
+File Name: C:\Downloaded Web Sites\www.law-league.com.ua\wp-content\uploads\elementor\css\post-358.css
+Content Type: text/css
+
+Uri: https://www.law-league.com.ua/wp-content/uploads/elementor/css/post-44.css?ver=1648110693
+File Name: C:\Downloaded Web Sites\www.law-league.com.ua\wp-content\uploads\elementor\css\post-44.css
+Content Type: text/css
+
+Uri: https://www.law-league.com.ua/wp-content/uploads/elementor/css/post-450.css?ver=1648112983
+File Name: C:\Downloaded Web Sites\www.law-league.com.ua\wp-content\uploads\elementor\css\post-450.css
+Content Type: text/css
+
+Uri: https://www.law-league.com.ua/wp-content/uploads/elementor/css/post-455.css?ver=1648112984
+File Name: C:\Downloaded Web Sites\www.law-league.com.ua\wp-content\uploads\elementor\css\post-455.css
+Content Type: text/css
+
+Uri: https://www.law-league.com.ua/wp-content/uploads/elementor/css/post-459.css?ver=1648112986
+File Name: C:\Downloaded Web Sites\www.law-league.com.ua\wp-content\uploads\elementor\css\post-459.css
+Content Type: text/css
+
+Uri: https://www.law-league.com.ua/wp-content/uploads/elementor/css/post-461.css?ver=1648112988
+File Name: C:\Downloaded Web Sites\www.law-league.com.ua\wp-content\uploads\elementor\css\post-461.css
+Content Type: text/css
+
+Uri: https://www.law-league.com.ua/wp-content/uploads/elementor/css/post-466.css?ver=1648112991
+File Name: C:\Downloaded Web Sites\www.law-league.com.ua\wp-content\uploads\elementor\css\post-466.css
+Content Type: text/css
+
+Uri: https://www.law-league.com.ua/wp-content/uploads/elementor/css/post-468.css?ver=1648112993
+File Name: C:\Downloaded Web Sites\www.law-league.com.ua\wp-content\uploads\elementor\css\post-468.css
+Content Type: text/css
+
+Uri: https://www.law-league.com.ua/wp-content/uploads/elementor/css/post-6.css?ver=1648111608
+File Name: C:\Downloaded Web Sites\www.law-league.com.ua\wp-content\uploads\elementor\css\post-6.css
+Content Type: text/css
+
+Uri: https://www.law-league.com.ua/wp-content/uploads/elementor/css/post-7.css?ver=1648112978
+File Name: C:\Downloaded Web Sites\www.law-league.com.ua\wp-content\uploads\elementor\css\post-7.css
+Content Type: text/css
+
+Uri: https://www.law-league.com.ua/wp-content/uploads/elementor/css/post-88.css?ver=1648111198
+File Name: C:\Downloaded Web Sites\www.law-league.com.ua\wp-content\uploads\elementor\css\post-88.css
+Content Type: text/css
+
+Uri: https://www.law-league.com.ua/wp-includes/css/dist/block-library/style.min.css?ver=5.9.1
+File Name: C:\Downloaded Web Sites\www.law-league.com.ua\wp-includes\css\dist\block-library\style.min.css
+Content Type: text/css
+
+Uri: https://www.law-league.com.ua/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2
+File Name: C:\Downloaded Web Sites\www.law-league.com.ua\wp-includes\js\jquery\jquery-migrate.min.js
+Content Type: application/javascript
+
+Uri: https://www.law-league.com.ua/wp-includes/js/jquery/jquery.min.js?ver=3.6.0
+File Name: C:\Downloaded Web Sites\www.law-league.com.ua\wp-includes\js\jquery\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://www.law-league.com.ua/wp-includes/js/jquery/ui/core.min.js?ver=1.13.1
+File Name: C:\Downloaded Web Sites\www.law-league.com.ua\wp-includes\js\jquery\ui\core.min.js
+Content Type: application/javascript
+
+Uri: https://www.law-league.com.ua/wp-includes/js/underscore.min.js?ver=1.13.1
+File Name: C:\Downloaded Web Sites\www.law-league.com.ua\wp-includes\js\underscore.min.js
+Content Type: application/javascript
+
+Uri: https://www.law-league.com.ua/wp-includes/js/wp-util.min.js?ver=5.9.1
+File Name: C:\Downloaded Web Sites\www.law-league.com.ua\wp-includes\js\wp-util.min.js
+Content Type: application/javascript
+
+Uri: https://www.law-league.com.ua/wp-includes/wlwmanifest.xml
+File Name: C:\Downloaded Web Sites\www.law-league.com.ua\wp-includes\wlwmanifest.xml
+Content Type: application/xml
+
+Uri: https://www.law-league.com.ua/wp-json/
+File Name: C:\Downloaded Web Sites\www.law-league.com.ua\wp-json\index.htm
+Content Type: application/json
+
+Uri: https://www.law-league.com.ua/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.law-league.com.ua%2F
+File Name: C:\Downloaded Web Sites\www.law-league.com.ua\wp-json\oembed\1.0\embed
+Content Type: application/json
+
+Uri: https://www.law-league.com.ua/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.law-league.com.ua%2F&format=xml
+File Name: C:\Downloaded Web Sites\www.law-league.com.ua\wp-json\oembed\1.0\embed-1
+Content Type: text/xml
+
+Uri: https://www.law-league.com.ua/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.law-league.com.ua%2Fabolition-of-notarial-inscriptions%2F
+File Name: C:\Downloaded Web Sites\www.law-league.com.ua\wp-json\oembed\1.0\embed-16
+Content Type: application/json
+
+Uri: https://www.law-league.com.ua/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.law-league.com.ua%2Fabolition-of-notarial-inscriptions%2F&format=xml
+File Name: C:\Downloaded Web Sites\www.law-league.com.ua\wp-json\oembed\1.0\embed-17
+Content Type: text/xml
+
+Uri: https://www.law-league.com.ua/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.law-league.com.ua%2Fabout-us%2F
+File Name: C:\Downloaded Web Sites\www.law-league.com.ua\wp-json\oembed\1.0\embed-2
+Content Type: application/json
+
+Uri: https://www.law-league.com.ua/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.law-league.com.ua%2Fabout-us%2F&format=xml
+File Name: C:\Downloaded Web Sites\www.law-league.com.ua\wp-json\oembed\1.0\embed-3
+Content Type: text/xml
+
+Uri: https://www.law-league.com.ua/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.law-league.com.ua%2Fcomplaints-complaints-letters%2F
+File Name: C:\Downloaded Web Sites\www.law-league.com.ua\wp-json\oembed\1.0\embed-18
+Content Type: application/json
+
+Uri: https://www.law-league.com.ua/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.law-league.com.ua%2Fcomplaints-complaints-letters%2F&format=xml
+File Name: C:\Downloaded Web Sites\www.law-league.com.ua\wp-json\oembed\1.0\embed-19
+Content Type: text/xml
+
+Uri: https://www.law-league.com.ua/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.law-league.com.ua%2Fcontacts%2F
+File Name: C:\Downloaded Web Sites\www.law-league.com.ua\wp-json\oembed\1.0\embed-6
+Content Type: application/json
+
+Uri: https://www.law-league.com.ua/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.law-league.com.ua%2Fcontacts%2F&format=xml
+File Name: C:\Downloaded Web Sites\www.law-league.com.ua\wp-json\oembed\1.0\embed-7
+Content Type: text/xml
+
+Uri: https://www.law-league.com.ua/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.law-league.com.ua%2Fcredit%2F
+File Name: C:\Downloaded Web Sites\www.law-league.com.ua\wp-json\oembed\1.0\embed-10
+Content Type: application/json
+
+Uri: https://www.law-league.com.ua/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.law-league.com.ua%2Fcredit%2F&format=xml
+File Name: C:\Downloaded Web Sites\www.law-league.com.ua\wp-json\oembed\1.0\embed-11
+Content Type: text/xml
+
+Uri: https://www.law-league.com.ua/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.law-league.com.ua%2Fjudicial-support%2F
+File Name: C:\Downloaded Web Sites\www.law-league.com.ua\wp-json\oembed\1.0\embed-14
+Content Type: application/json
+
+Uri: https://www.law-league.com.ua/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.law-league.com.ua%2Fjudicial-support%2F&format=xml
+File Name: C:\Downloaded Web Sites\www.law-league.com.ua\wp-json\oembed\1.0\embed-15
+Content Type: text/xml
+
+Uri: https://www.law-league.com.ua/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.law-league.com.ua%2Fother-legal-issues%2F
+File Name: C:\Downloaded Web Sites\www.law-league.com.ua\wp-json\oembed\1.0\embed-22
+Content Type: application/json
+
+Uri: https://www.law-league.com.ua/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.law-league.com.ua%2Fother-legal-issues%2F&format=xml
+File Name: C:\Downloaded Web Sites\www.law-league.com.ua\wp-json\oembed\1.0\embed-23
+Content Type: text/xml
+
+Uri: https://www.law-league.com.ua/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.law-league.com.ua%2Fpermanent-esidence-permit%2F
+File Name: C:\Downloaded Web Sites\www.law-league.com.ua\wp-json\oembed\1.0\embed-12
+Content Type: application/json
+
+Uri: https://www.law-league.com.ua/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.law-league.com.ua%2Fpermanent-esidence-permit%2F&format=xml
+File Name: C:\Downloaded Web Sites\www.law-league.com.ua\wp-json\oembed\1.0\embed-13
+Content Type: text/xml
+
+Uri: https://www.law-league.com.ua/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.law-league.com.ua%2Fprices%2F
+File Name: C:\Downloaded Web Sites\www.law-league.com.ua\wp-json\oembed\1.0\embed-4
+Content Type: application/json
+
+Uri: https://www.law-league.com.ua/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.law-league.com.ua%2Fprices%2F&format=xml
+File Name: C:\Downloaded Web Sites\www.law-league.com.ua\wp-json\oembed\1.0\embed-5
+Content Type: text/xml
+
+Uri: https://www.law-league.com.ua/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.law-league.com.ua%2Ftov-registration%2F
+File Name: C:\Downloaded Web Sites\www.law-league.com.ua\wp-json\oembed\1.0\embed-8
+Content Type: application/json
+
+Uri: https://www.law-league.com.ua/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.law-league.com.ua%2Ftov-registration%2F&format=xml
+File Name: C:\Downloaded Web Sites\www.law-league.com.ua\wp-json\oembed\1.0\embed-9
+Content Type: text/xml
+
+Uri: https://www.law-league.com.ua/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.law-league.com.ua%2Fwriting-draft-contracts%2F
+File Name: C:\Downloaded Web Sites\www.law-league.com.ua\wp-json\oembed\1.0\embed-20
+Content Type: application/json
+
+Uri: https://www.law-league.com.ua/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.law-league.com.ua%2Fwriting-draft-contracts%2F&format=xml
+File Name: C:\Downloaded Web Sites\www.law-league.com.ua\wp-json\oembed\1.0\embed-21
+Content Type: text/xml
+
+Uri: https://www.law-league.com.ua/wp-json/wp/v2/pages/233
+File Name: C:\Downloaded Web Sites\www.law-league.com.ua\wp-json\wp\v2\pages\233
+Content Type: application/json
+
+Uri: https://www.law-league.com.ua/wp-json/wp/v2/pages/276
+File Name: C:\Downloaded Web Sites\www.law-league.com.ua\wp-json\wp\v2\pages\276
+Content Type: application/json
+
+Uri: https://www.law-league.com.ua/wp-json/wp/v2/pages/358
+File Name: C:\Downloaded Web Sites\www.law-league.com.ua\wp-json\wp\v2\pages\358
+Content Type: application/json
+
+Uri: https://www.law-league.com.ua/wp-json/wp/v2/pages/450
+File Name: C:\Downloaded Web Sites\www.law-league.com.ua\wp-json\wp\v2\pages\450
+Content Type: application/json
+
+Uri: https://www.law-league.com.ua/wp-json/wp/v2/pages/455
+File Name: C:\Downloaded Web Sites\www.law-league.com.ua\wp-json\wp\v2\pages\455
+Content Type: application/json
+
+Uri: https://www.law-league.com.ua/wp-json/wp/v2/pages/459
+File Name: C:\Downloaded Web Sites\www.law-league.com.ua\wp-json\wp\v2\pages\459
+Content Type: application/json
+
+Uri: https://www.law-league.com.ua/wp-json/wp/v2/pages/461
+File Name: C:\Downloaded Web Sites\www.law-league.com.ua\wp-json\wp\v2\pages\461
+Content Type: application/json
+
+Uri: https://www.law-league.com.ua/wp-json/wp/v2/pages/466
+File Name: C:\Downloaded Web Sites\www.law-league.com.ua\wp-json\wp\v2\pages\466
+Content Type: application/json
+
+Uri: https://www.law-league.com.ua/wp-json/wp/v2/pages/468
+File Name: C:\Downloaded Web Sites\www.law-league.com.ua\wp-json\wp\v2\pages\468
+Content Type: application/json
+
+Uri: https://www.law-league.com.ua/wp-json/wp/v2/pages/6
+File Name: C:\Downloaded Web Sites\www.law-league.com.ua\wp-json\wp\v2\pages\6
+Content Type: application/json
+
+Uri: https://www.law-league.com.ua/wp-json/wp/v2/pages/7
+File Name: C:\Downloaded Web Sites\www.law-league.com.ua\wp-json\wp\v2\pages\7
+Content Type: application/json
+
+Uri: https://www.law-league.com.ua/wp-json/wp/v2/pages/88
+File Name: C:\Downloaded Web Sites\www.law-league.com.ua\wp-json\wp\v2\pages\88
+Content Type: application/json
+
+Uri: https://www.law-league.com.ua/writing-draft-contracts/
+File Name: C:\Downloaded Web Sites\www.law-league.com.ua\writing-draft-contracts\index.htm
+Content Type: text/html
+
+Uri: https://www.law-league.com.ua/xmlrpc.php?rsd
+File Name: C:\Downloaded Web Sites\www.law-league.com.ua\xmlrpc.php
+Content Type: text/xml
+
